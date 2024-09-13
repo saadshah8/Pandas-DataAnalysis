@@ -1,6 +1,6 @@
 # Pandas Lecture Repository
 
-This repository contains materials and code for learning and understanding **Pandas**, a powerful Python library for data manipulation and analysis.
+This repository contains materials for learning and understanding **Pandas**, a powerful Python library for data manipulation and analysis.
 
 ## 📑 Overview
 
