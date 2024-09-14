@@ -11,4 +11,3 @@ This lecture covers the following key aspects of Pandas:
 - Handling missing values
 - Grouping and aggregating data
 - Merging and joining DataFrames
-- Time series analysis
